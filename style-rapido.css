@@ -1,0 +1,53 @@
+*{
+    /* border: 1px solid red; */
+}
+#navbarSupportedContent{
+    margin-left: 10%;
+}
+.download{
+    border-radius: 25px 25px 4px 25px !important;
+    font-weight: bold !important;
+}
+#box1{
+    width: 55px;
+    height: 4px;
+    background-color: black;
+}
+.section1 h1{
+    font-size: 57px;
+}
+.section1 p{
+    font-size: 27px;
+}
+.input-group-text{
+    background-color: white;
+}
+.section3 img{
+    width: 100%;
+}
+
+.section5{
+    background-color:rgb(30, 75, 130);;
+
+}
+.section5 h1{
+    font-size: 36px;
+
+}
+
+.section5 p{
+    font-size: 36px;
+
+}
+
+.section5 .btn{
+    font-size: 30px;
+    border-radius: 30px;
+}
+.underline{
+    text-decoration: underline gold 4px;
+}
+
+.section6{
+    background-color: #F5F5F5;
+}
